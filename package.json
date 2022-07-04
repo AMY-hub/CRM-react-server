@@ -1,0 +1,23 @@
+{
+  "name": "projects_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://AMY-hub.github.io/projects-json-server",
+  "scripts": {
+    "start": "node \"./index.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

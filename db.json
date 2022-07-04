@@ -1,0 +1,166 @@
+{
+  "bids": [
+    {
+      "name": "Алексей Иванов",
+      "phone": 89206548017,
+      "email": "mailto@yandex.ru",
+      "product": "course-html",
+      "status": "inwork",
+      "createdAt": 1656867608885,
+      "id": 1
+    },
+    {
+      "name": "Захар Еремцев",
+      "phone": 89602351077,
+      "email": "ImHar@yandex.ru",
+      "product": "course-wordpress",
+      "status": "inwork",
+      "createdAt": 1656867801882,
+      "id": 2
+    },
+    {
+      "name": "Сергей Огольцов",
+      "phone": 89345560789,
+      "email": "ogolets@yandex.ru",
+      "product": "course-vue",
+      "status": "new",
+      "createdAt": 1656868321538,
+      "id": 5
+    },
+    {
+      "name": "Алексей Иванов",
+      "phone": 89206548017,
+      "email": "mailto@yandex.ru",
+      "product": "course-html",
+      "status": "inwork",
+      "createdAt": 1656868329391,
+      "id": 6
+    },
+    {
+      "name": "Анна Лиманова",
+      "phone": 89531538022,
+      "email": "ali1993@yandex.ru",
+      "product": "course-js",
+      "status": "inwork",
+      "createdAt": 1656868330864,
+      "id": 7
+    },
+    {
+      "name": "Рената Столиева",
+      "phone": 89204235015,
+      "email": "stoli@yandex.ru",
+      "product": "course-php",
+      "status": "new",
+      "createdAt": 1656868332304,
+      "id": 8
+    },
+    {
+      "name": "Захар Еремцев",
+      "phone": 89602351077,
+      "email": "ImHar@yandex.ru",
+      "product": "course-wordpress",
+      "status": "complete",
+      "createdAt": 1656868333603,
+      "id": 9
+    },
+    {
+      "name": "Алексей Иванов",
+      "phone": 89206548017,
+      "email": "mailto@yandex.ru",
+      "product": "course-html",
+      "status": "new",
+      "createdAt": 1656868334277,
+      "id": 10
+    },
+    {
+      "name": "Алексей Иванов",
+      "phone": 89206548017,
+      "email": "mailto@yandex.ru",
+      "product": "course-html",
+      "status": "new",
+      "createdAt": 1656873543648,
+      "id": 11
+    },
+    {
+      "name": "Сергей Огольцов",
+      "phone": 89345560789,
+      "email": "ogolets@yandex.ru",
+      "product": "course-vue",
+      "status": "inwork",
+      "createdAt": 1656873544055,
+      "id": 12
+    },
+    {
+      "name": "Захар Еремцев",
+      "phone": 89602351077,
+      "email": "ImHar@yandex.ru",
+      "product": "course-wordpress",
+      "status": "inwork",
+      "createdAt": 1656873544206,
+      "id": 13
+    },
+    {
+      "name": "Алексей Иванов",
+      "phone": 89206548017,
+      "email": "mailto@yandex.ru",
+      "product": "course-html",
+      "status": "complete",
+      "createdAt": 1656873544377,
+      "id": 14
+    },
+    {
+      "name": "Сергей Огольцов",
+      "phone": 89345560789,
+      "email": "ogolets@yandex.ru",
+      "product": "course-vue",
+      "status": "new",
+      "createdAt": 1656873544512,
+      "id": 15
+    },
+    {
+      "name": "Алексей Иванов",
+      "phone": 89206548017,
+      "email": "mailto@yandex.ru",
+      "product": "course-html",
+      "status": "inwork",
+      "createdAt": 1656873544827,
+      "id": 17
+    },
+    {
+      "name": "Алексей Иванов",
+      "phone": 89206548017,
+      "email": "mailto@yandex.ru",
+      "product": "course-html",
+      "status": "new",
+      "createdAt": 1656873544976,
+      "id": 18
+    },
+    {
+      "name": "Анна Лиманова",
+      "phone": 89531538022,
+      "email": "ali1993@yandex.ru",
+      "product": "course-js",
+      "status": "complete",
+      "createdAt": 1656873545127,
+      "id": 19
+    },
+    {
+      "name": "Алексей Иванов",
+      "phone": 89206548017,
+      "email": "mailto@yandex.ru",
+      "product": "course-html",
+      "status": "new",
+      "createdAt": 1656873545292,
+      "id": 20
+    },
+    {
+      "name": "Сергей Огольцов",
+      "phone": 89345560789,
+      "email": "ogolets@yandex.ru",
+      "product": "course-vue",
+      "status": "new",
+      "createdAt": 1656882711837,
+      "id": 22
+    }
+  ]
+}
